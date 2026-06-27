@@ -1,4 +1,4 @@
-# Adaptive-Switching-Randomly-Perturbed-Particle-Swarm-Optimization-Algorithm-ASRPPSO-
+# Adaptive Switching Randomly Perturbed Particle Swarm Optimization Algorithm (ASRPPSO)
 
 This repository provides the source code of the ASRPPSO algorithm proposed in the following paper:
 
